@@ -13,8 +13,8 @@
 
 ## 关于项目
 
-### [代码Github URL](http://.....)
-### [Pythonanywhere 的部署 URL](http://.....)
+### [代码Github URL](https://github.com/ZOE-ZhouYu/pythonfina)
+### [Pythonanywhere 的部署 URL](http://zoebridge.pythonanywhere.com/)
 ### 一共有三个URL页面
 1. 主页面（.../）
 2. 主页面按钮点击跳转(.../tochart)
